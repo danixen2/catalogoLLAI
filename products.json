@@ -43,5 +43,25 @@
     "purchaseLink": "https://tu-tienda.com/pack-reinos-perdidos",
     "sampleLink": "https://tu-tienda.com/muestras/pack-reinos-perdidos",
     "featured": true
+  },
+  {
+    "id": "pack-1784733407255",
+    "name": "Ayumu Uehara (Cow Bikini Print) 750 JPY",
+    "category": "anime",
+    "image": "https://iili.io/CNjiQqJ.jpg",
+    "description": "",
+    "tags": [
+      "Uehara Ayumu",
+      "Love Live!",
+      "Nijigasaki",
+      "Videos",
+      "Images"
+    ],
+    "purchaseLink": "https://liveposting.booth.pm/items/8503500",
+    "sampleLink": "https://www.pixiv.net/en/artworks/145941959",
+    "name_en": "Ayumu Uehara (Cow Bikini Print) 750 JPY",
+    "description_en": "",
+    "name_ja": "上原步夢 (牛柄ビキニ) 750 JPY",
+    "description_ja": ""
   }
 ]
